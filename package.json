@@ -1,0 +1,19 @@
+{
+  "name": "gprofilerweb",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jvwong",
+  "license": "ISC",
+  "dependencies": {
+    "biojs-vis-gprofiler": "^0.4.2",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "mustache": "^2.2.1"
+  }
+}
