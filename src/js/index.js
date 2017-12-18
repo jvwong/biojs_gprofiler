@@ -15,7 +15,7 @@ var index = (function(){
     gp.render({
       excludeIEA: true,
       minSetSize: 5,
-      maxSetSize: 500,
+      maxSetSize: 200,
       srcFilter: [
         "GO:BP"
       ],
