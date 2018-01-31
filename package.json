@@ -11,7 +11,7 @@
   "author": "jvwong",
   "license": "ISC",
   "dependencies": {
-    "biojs-vis-gprofiler": "^0.4.2"
+    "biojs-vis-gprofiler": "jvwong/biojs-vis-gprofiler"
   },
   "devDependencies": {
     "webpack": "^3.10.0",
